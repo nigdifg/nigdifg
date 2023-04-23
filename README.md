@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **DSA,Web Development,database,etc.**
 
-- 🤝 I’m looking for a educational **internship**
+- 🤝 I’m looking for an **internship**
 
 - 💬 Ask me about **Web Development**
 
