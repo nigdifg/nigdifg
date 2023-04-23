@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anurag</h1>
-<h3 align="center">I'm a learner,Programmer & Front-End developer</h3>
+<h3 align="center">I'm a learner,Programmer & Web developer</h3>
 
 - 🔭 I’m currently working on **something cool**
 
