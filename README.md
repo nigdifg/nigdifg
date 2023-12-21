@@ -1,4 +1,4 @@
-# 💫 Hey , I'am Anurag:
+# 💫 Hey , I'am Anurag
 🔭 Currently focused on DSA.<br>👯 Seeking collaboration on new projects.<br>🌱 Learning DSA and working on JavaScript projects.<br>💬 Feel free to ask me about DSA or web development.
 
 
